@@ -7,7 +7,8 @@ git clone git@github.com:plasorak/OnlineHitEventDisplay.git
 cd OnlineHitEventDisplay
 mkdir build
 cmake ../
-make```
+make
+```
 
 To run:
 `./build/OnlineHitEventDisplay --socket --socket-type --refresh-rate`
